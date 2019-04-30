@@ -75,8 +75,4 @@
         },delay);
     });
 
-    $('#mc-embedded-subscribe-form').submit(function() {
-        $('#mce-EMAIL').val('');
-    });
-
 })(jQuery);
